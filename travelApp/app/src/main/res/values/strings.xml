@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">travelApp</string>
+    <string name="text1">Scottish highlands</string>
+    <string name="text2">Inverness, Scotland </string>
+    <string name="text3">Overview</string>
+    <string name="text4">Gallery</string>
+    <string name="text5">Review</string>
+    <string name="text6">4.4(2532 views)</string>
+    <string name="text7">WHY GO NOW ? Climb through a sea of clouds</string>
+    <string name="text8">The Highlands is a historic region of Scotland Culturally, the Highlands and the Lowlands diverged from the later Middle Ages into the modern period, when Lowland Scots replaced Scottish Gaelic throughout most of the Lowlands.</string>
+    <string name="text9">$520 (5 days)</string>
+    <string name="button">BOOK NOW</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="emaile">please entrer your emaile</string>
+    <string name="password">please entrer your password</string>
+    <string name="account">OPEN NEW ACCOUNT</string>
+    <string name="login">LOG IN</string>
+    <string name="cantlogin">CANT LOGIN ?</string>
+    <string name="check">remember me</string>
+    <string name="checkbox"></string>
+</resources>

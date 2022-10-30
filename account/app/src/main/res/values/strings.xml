@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">account</string>
+    <string name="name">BENTALEB RACHID</string>
+    <string name="specialty">Senice mobile devloper</string>
+    <string name="followers">1000 followers</string>
+    <string name="folowing">850 folowing</string>
+    <string name="emaile">Emaile</string>
+    <string name="emaile_text">bentalebrachid@gmail.com</string>
+    <string name="mobile">Mobile</string>
+    <string name="mobile_number">0658680506</string>
+    <string name="facbook">Facbook</string>
+    <string name="facbook_account">bentaleb rachid</string>
+    <string name="twitter">Twitter</string>
+    <string name="twitter_account">twitter acount</string>
+
+
+</resources>
